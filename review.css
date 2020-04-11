@@ -1,0 +1,33 @@
+body {
+  background-color: Teal;
+      color: red;
+    font-family: arial;
+    font-size: 14px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  color: red;
+}
+
+P {
+  color: black;
+  font-size: 20px;
+  text-align: center;
+}
+
+a:active {
+  color: red;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:visited {
+  color: blue;
+}
