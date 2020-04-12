@@ -1,6 +1,6 @@
 body {
   background-color: Teal;
-      color: red;
+      color: white;
     font-family: arial;
     font-size: 14px;
 }
@@ -10,13 +10,24 @@ h1 {
 }
 
 h2 {
-  color: red;
+  color: white;
 }
 
 P {
   color: black;
   font-size: 20px;
   text-align: center;
+}
+
+img {
+  background-image: url ("Images/Family.jpg");
+  background-position: center;
+}
+
+.Years-Ago {
+  width: 200px;
+  background-image: url("Images/Years-Ago.jpg");
+  background-position: center;
 }
 
 a:active {
