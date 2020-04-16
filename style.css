@@ -2,7 +2,7 @@ body {
   /* background-color: aqua; */
   font-family: arial;
   font-size: 14px;
-  background-image: url("Images/colors.jpg")
+  background-image: url("Images/colors.jpg");
   /* background-repeat: no repeat; */
   background-size: cover;
   /* background-position: center; */
